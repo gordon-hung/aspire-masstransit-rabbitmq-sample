@@ -1,0 +1,6 @@
+@Aspire.MassTransitRabbitMQ.Sample.AppSender_HostAddress = http://localhost:5079
+
+GET {{Aspire.MassTransitRabbitMQ.Sample.AppSender_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
